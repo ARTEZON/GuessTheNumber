@@ -1,4 +1,4 @@
 # GuessTheNumber
-Мой старый школьный проект - простая игра на языке Visual Basic
+Мой старый школьный проект - простая игра на языке Visual Basic.
 
-Сделано в Visual Basic 2010
+Сделано в Visual Basic 2010.
