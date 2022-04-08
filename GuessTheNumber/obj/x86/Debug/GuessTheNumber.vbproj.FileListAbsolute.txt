@@ -1,0 +1,40 @@
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.vbproj.GenerateResource.Cache
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.pdb
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.manifest
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.application
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form1.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form2.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form4.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form3.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form5.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Resources.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.exe.manifest
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Debug\GuessTheNumber.application
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.pdb
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.exe.manifest
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.application
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Debug\GuessTheNumber.xml
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form1.resources
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form2.resources
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form4.resources
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form3.resources
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Form5.resources
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.Resources.resources
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.vbproj.GenerateResource.Cache
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.exe.manifest
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.application
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.exe
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.xml
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Debug\GuessTheNumber.pdb

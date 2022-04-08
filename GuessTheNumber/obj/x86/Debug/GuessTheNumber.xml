@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GuessTheNumber
+</name>
+</assembly>
+<members>
+<member name="P:GuessTheNumber.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources._exit">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.ARTEZON">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.checkmark">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.down">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.Form">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.game_over">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.temp1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.temp2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.temp3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.temp4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:GuessTheNumber.My.Resources.Resources.up">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="T:GuessTheNumber.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>

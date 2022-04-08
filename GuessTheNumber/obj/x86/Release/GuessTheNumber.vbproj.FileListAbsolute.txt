@@ -1,0 +1,40 @@
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Release\GuessTheNumber.exe.config
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Release\GuessTheNumber.exe.manifest
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Release\GuessTheNumber.application
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Release\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Release\GuessTheNumber.pdb
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\bin\Release\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form1.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form2.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form4.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form3.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form5.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.Resources.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.vbproj.GenerateResource.Cache
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.exe.manifest
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.application
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\GuessTheNumber\obj\x86\Release\GuessTheNumber.pdb
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.exe.config
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.exe.manifest
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.application
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.pdb
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form1.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form2.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form4.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form3.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.Form5.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.Resources.resources
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.vbproj.GenerateResource.Cache
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.exe.manifest
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.application
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.exe
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.xml
+C:\Users\ARTEZON\Desktop\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.pdb
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\bin\Release\GuessTheNumber.exe.config
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.exe
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.xml
+I:\Артём\Разное\Программирование\Visual Basic\GuessTheNumber\Project\GuessTheNumber\obj\x86\Release\GuessTheNumber.pdb
